@@ -1,0 +1,5 @@
+[2022-07-31 09:23:26,147]|INFO|                    ian_csv_parser|86|Initiating Process
+[2022-07-31 09:23:35,297]|ERROR|                    ian_csv_parser|59|Identifying files
+[2022-07-31 09:23:38,850]|WARNING|                    ian_csv_parser|23|CSV file created
+[2022-07-31 09:23:42,948]|CRITICAL|                    ian_csv_parser|47|Output file written in: cleaned_products.csv
+[2022-07-31 09:23:42,948]|INFO|                    ian_csv_parser|51|Successfully created a clean file
